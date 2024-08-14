@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IDS/1.0.0": {
+        "dependencies": {
+          "PcapDotNet.Base": "1.0.4.1"
+        },
+        "runtime": {
+          "IDS.dll": {}
+        }
+      },
+      "PcapDotNet.Base/1.0.4.1": {
+        "runtime": {
+          "lib/netstandard2.0/PcapDotNet.Base.dll": {
+            "assemblyVersion": "1.0.4.1",
+            "fileVersion": "1.0.4.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcapDotNet.Base/1.0.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-khE9O7g3UPL5NKYU7TaCL8Dv5PEORTftsQsRJVdVMbS5Z5o/Gi57Un4o9i4+JJlhwsUFzDUjdPmJpmMMcYj+Ww==",
+      "path": "pcapdotnet.base/1.0.4.1",
+      "hashPath": "pcapdotnet.base.1.0.4.1.nupkg.sha512"
+    }
+  }
+}

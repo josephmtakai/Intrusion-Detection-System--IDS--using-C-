@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HU3EQpqFuWU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\5H3PH3RD\\Desktop\\Intrusion Detection System (IDS) using C#\\IDS\\IDS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\5H3PH3RD\\.nuget\\packages\\pcapdotnet.base\\1.0.4.1\\pcapdotnet.base.1.0.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
